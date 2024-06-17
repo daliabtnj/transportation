@@ -21,6 +21,10 @@ The project is organized into the following packages:
 - **WheeledTransportation**
   - `Transportation`
   - `WheeledTransportation`
+ 
+## UML Diagram
+
+An UML (Unified Modeling Language) diagram representing the class structure and relationships is included in the project. It provides an overview of the system's design and the relationships between different classes.
 
 ## Features
 - Object-Oriented Design
