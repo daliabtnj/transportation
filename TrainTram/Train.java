@@ -1,9 +1,3 @@
-// -----------------------------------------------------
-// Assignment (1)
-// Part: (1)
-// Written by: (Dalia Betinjaneh 40200966)
-// -----------------------------------------------------
-
 
 package TrainTram;
 import WheeledTransportation.WheeledTransportation;
